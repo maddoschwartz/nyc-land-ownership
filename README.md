@@ -5,8 +5,8 @@ This project uses public data from NYC to generate a map of the land ownership i
 ## Data
 
 Sources:
-- [NYC Land Use Data](https://data.cityofnewyork.us/City-Government/Primary-Land-Use-Tax-Lot-Output-PLUTO-/64uk-42ks)
-- [NYC Census Shapes](https://www.nyc.gov/site/planning/data-maps/open-data/census-download-metadata.page)
+- [Primary Land Use Tax Lot Output (PLUTO)](https://data.cityofnewyork.us/City-Government/Primary-Land-Use-Tax-Lot-Output-PLUTO-/64uk-42ks)
+- [2020 Census Blocks (Clipped to Shoreline) Data ](https://www.nyc.gov/site/planning/data-maps/open-data/census-download-metadata.page)
 
 
 Data of interest from PLUTO Dataset (see data/PLUTODD.pdf)
@@ -28,6 +28,8 @@ Geopandas: https://geopandas.org/en/stable/docs/reference
 Pandas: https://pandas.pydata.org/docs/reference/api
 
 ## Getting Started
+
+Download the data and place it in the `data` directory.
 
 Install latest version of Python: https://www.python.org/downloads/
 
