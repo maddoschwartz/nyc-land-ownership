@@ -24,8 +24,8 @@ Data of interest from PLUTO Dataset (see data/PLUTODD.pdf)
 
 ## Coding Resources
 
-Geopandas: https://geopandas.org/en/stable/docs/reference
-Pandas: https://pandas.pydata.org/docs/reference/api
+- Geopandas: https://geopandas.org/en/stable/docs/reference
+- Pandas: https://pandas.pydata.org/docs/reference/api
 
 ## Getting Started
 
@@ -57,16 +57,16 @@ Future work could include:
 
 1. Aggregating and displaying public land-owners
 
-  There are some public land-owners that could be of interest
-  - STATE UNIVERSITY OF (of what??)
-  - UNITED STATES OF AMERICA
-  - NEW YORK STATE DEPARTMENT
-  - NYC DEPARTMENT OF TRANSPORTATION
+    There are some public land-owners that could be of interest
+    - STATE UNIVERSITY OF (of what??)
+    - UNITED STATES OF AMERICA
+    - NEW YORK STATE DEPARTMENT
+    - NYC DEPARTMENT OF TRANSPORTATION
 
 2. Map an overlay of LandUse
 
-  Some values in the data include Transportaiton/Utility, Industrial/Manufacturing, etc.
+    Some values in the data include Transportaiton/Utility, Industrial/Manufacturing, etc.
 
 4. Making the map interactive
 
-  Make a map that lets you zoom in-out and hover over to discover more information.
+    Make a map that lets you zoom in-out and hover over to discover more information.
